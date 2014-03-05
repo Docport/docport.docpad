@@ -40,6 +40,8 @@
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 	
+	<script src="//load.sumome.com/" data-sumo-site-id="ed9e0fc8180f371f88f0149e79a573e600b3f4f70abeaaafc430fbf6a92e182e" async></script>
+	
 </head>
 <body>
 
