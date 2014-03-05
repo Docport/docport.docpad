@@ -36,7 +36,8 @@
     "docpad-plugin-partials": "2.x",
     "docpad-plugin-related": "2.x",
     "docpad-plugin-text": "2.x",
-    "docpad-plugin-ghpages": "~2.4.3"
+    "docpad-plugin-ghpages": "~2.4.3",
+    "docpad-plugin-sitemap": "~2.2.0"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x"
