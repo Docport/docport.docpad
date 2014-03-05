@@ -22,10 +22,10 @@ body {
 .header {
     margin: 0 0;
 }
-
     .header .pure-menu {
         padding: 0.5em;
 		display: none;
+		color: #222;
     }
 
         .header .pure-menu li a:hover,
@@ -36,6 +36,13 @@ body {
         }
 	.pure-menu.pure-menu-open.pure-menu-fixed{
 		border: 0;
+		padding-bottom: 0px;
+	}
+	.nav-icon{
+		height: 44px;
+		width: 44px;
+		margin: 0px 0 5px 0 !important;
+		vertical-align: middle;
 	}
 
 body .primary-button {

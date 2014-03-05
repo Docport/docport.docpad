@@ -49,13 +49,7 @@
 <div class="content pure-g-r">
 	<div class="header pure-u-1">
 		<div id="headerNav" class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
-			<ul>
-				<% for document in @getCollection('pages').toJSON(): %>
-					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
-						<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
-					</li>
-				<% end %>
-			</ul>
+			<%- @getIconmonstrBlock('anchor10','logoNav','nav-icon center') %> <strong>Docport</strong>
 		</div>
 	</div>
 
