@@ -4,6 +4,7 @@
 ::-webkit-scrollbar-thumb:window-inactive{background:rgba(216,210,206,0.3)}::selection{background:#ff7878;color:#fff;text-shadow:none}
 
 body {
+	background: #fafafa;
     margin: 0 auto;
     line-height: 1.7em;
 	color: #777;
@@ -44,6 +45,15 @@ body .primary-button {
 		font-size: 66px;
 		margin: 23px;
 	}
+
+.show{
+	display: block !important;
+}
+
+.webwrite-name{
+	font-family: "Times New Roman",Times,serif;
+	font-size: 44px;
+}
 
 .github-icon{
 	fill: #777;

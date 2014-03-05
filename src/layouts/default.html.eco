@@ -38,7 +38,7 @@
 <!-- Markup -->
 <div class="content pure-g-r">
 	<div class="header pure-u-1">
-		<div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
+		<div id="headerNav" class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
 			<ul>
 				<% for document in @getCollection('pages').toJSON(): %>
 					<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
@@ -52,9 +52,7 @@
 	<%- @content %>
 
 	<div class="footer pure-u-1">
-		View the source of this layout to learn more. Made with love by the YUI Team. 
-		&copy; Company <%- (new Date()).getFullYear() %>.
-		This website was last updated at <%= @site.date.toISOString() %>
+		&copy; Docport <%- (new Date()).getFullYear() %>.
 	</div>
 </div>
 
