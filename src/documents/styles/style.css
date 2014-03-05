@@ -1,0 +1,103 @@
+::-webkit-scrollbar{width:17px;background:#fcfcfc}
+::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.2)}
+::-webkit-scrollbar-thumb{background:rgba(102,51,0,0.2) url(https://googledrive.com/host/0B9LVk4xbDIJTU0FvQll6RWlCNnM/ticks.png);-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.2)}
+::-webkit-scrollbar-thumb:window-inactive{background:rgba(216,210,206,0.3)}::selection{background:#ff7878;color:#fff;text-shadow:none}
+
+body {
+    margin: 0 auto;
+    line-height: 1.7em;
+	color: #222;
+}
+
+.l-box {
+    padding: 1em;
+}
+
+.header {
+    margin: 0 0;
+}
+
+    .header .pure-menu {
+        padding: 0.5em;
+		display: none;
+    }
+
+        .header .pure-menu li a:hover,
+        .header .pure-menu li a:focus {
+            background: none;
+            border: none;
+            color: #aaa;
+        }
+
+body .primary-button {
+    background: #02a6eb;
+    color: #fff;
+}
+
+.logo-icon{
+	fill: #222;
+	width: 444px;
+	height: 444px;
+	display: block;
+}
+	.name{
+		font-size: 66px;
+		margin: 23px;
+	}
+
+.splash {
+    margin: 0 auto 0;
+    padding: 3em 0.5em;
+    background: #eee;
+}
+    .splash .splash-head {
+        font-size: 300%;
+        margin: 0em 0;
+        line-height: 1.2em;
+    }
+    .splash .splash-subhead {
+        color: #999;
+        font-weight: 300;
+        line-height: 1.4em;
+    }
+    .splash .primary-button {
+        font-size: 150%;
+    }
+
+.center{
+	text-align: center;
+	margin: auto;
+}
+
+.content .content-subhead {
+    color: #999;
+    padding-bottom: 0.3em;
+    text-transform: uppercase;
+    margin: 0;
+    border-bottom: 2px solid #eee;
+    display: inline-block;
+}
+
+.content .content-ribbon {
+    margin: 3em;
+    border-bottom: 1px solid #eee;
+}
+
+.ribbon {
+    background: #eee;
+    text-align: center;
+    padding: 2em;
+    color: #999;
+}
+    .ribbon h2 {
+        display: inline;
+        font-weight: normal;
+    }
+
+.footer {
+    background: #111;
+    color: #666;
+    text-align: center;
+    padding: 1em;
+    font-size: 80%;
+}
