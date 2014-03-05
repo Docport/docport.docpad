@@ -27,7 +27,6 @@ body {
 		display: none;
 		color: #222;
     }
-
         .header .pure-menu li a:hover,
         .header .pure-menu li a:focus {
             background: none;
