@@ -29,6 +29,14 @@
 		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
+	<!--[if gte IE 9]>
+	  <style type="text/css">
+		.gradient {
+		   filter: none;
+		}
+	  </style>
+	<![endif]-->
+
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 	
