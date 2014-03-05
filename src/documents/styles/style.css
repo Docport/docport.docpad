@@ -14,6 +14,11 @@ body {
     padding: 1em;
 }
 
+#sumotest-badge{
+	opacity: 0;
+	cursor: pointer;
+}
+
 .header {
     margin: 0 0;
 }
