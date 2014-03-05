@@ -6,7 +6,7 @@
 body {
     margin: 0 auto;
     line-height: 1.7em;
-	color: #222;
+	color: #777;
 }
 
 .l-box {
@@ -45,10 +45,18 @@ body .primary-button {
 		margin: 23px;
 	}
 
+.github-icon{
+	fill: #777;
+	width: 222px;
+	height: 222px;
+	display: block;
+}
+
 .splash {
     margin: 0 auto 0;
     padding: 3em 0.5em;
     background: #eee;
+	color: #333;
 }
     .splash .splash-head {
         font-size: 300%;
