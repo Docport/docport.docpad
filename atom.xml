@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Docport</title>
+	<link href="http://docport.io/atom.xml" rel="self"/>
+	<link href="http://docport.io"/>
+	<updated>2014-06-17T04:17:09.888Z</updated>
+	<id>http://docport.io</id>
+	<author>
+		<name>Michael Mooring</name>
+		<email>mike@mdm.cc</email>
+	</author>
+
+	
+		<entry>
+			<title>This is a Goodbye Blog Post</title>
+			<link href="http://docport.io//posts/bye"/>
+			<updated>2014-06-17T03:29:20.000Z</updated>
+			<id>http://docport.io//posts/bye</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;This is a Goodbye Blog Post | Docport&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Docport DocPad website hosting.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;DocPad, free hosting, website hosting, free website hosting&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;favicon.ico&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!--[if gte IE 9]&gt;
+	  &lt;style type=&quot;text/css&quot;&gt;
+		.gradient {
+		   filter: none;
+		}
+	  &lt;/style&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;http://yui.yahooapis.com/pure/0.3.0/pure-min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+	
+	&lt;script src=&quot;//load.sumome.com/&quot; data-sumo-site-id=&quot;ed9e0fc8180f371f88f0149e79a573e600b3f4f70abeaaafc430fbf6a92e182e&quot; async&gt;&lt;/script&gt;
+	
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- Markup --&gt;
+&lt;div class=&quot;content pure-g-r&quot;&gt;
+	&lt;div class=&quot;header pure-u-1&quot;&gt;
+		&lt;div id=&quot;headerNav&quot; class=&quot;pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal&quot;&gt;
+			&lt;!-- iconmonstr START --&gt;&lt;svg id=&quot;logoNav&quot; class=&quot;nav-icon center&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 512 512&quot; enable-background=&quot;new 0 0 512 512&quot; xml:space=&quot;preserve&quot;&gt;undefined&lt;/svg&gt;&lt;!-- iconmonstr END --&gt; &lt;strong&gt;Docport&lt;/strong&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;pure-u-1&quot;&gt;
+	&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+		&lt;h1&gt;This is a Goodbye Blog Post&lt;/h1&gt;
+		&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;This is a goodbye &lt;strong&gt;blog post&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;footer&gt;
+		
+	&lt;/footer&gt;
+&lt;/div&gt;
+
+	&lt;div class=&quot;footer pure-u-1&quot;&gt;
+		&amp;copy; Docport 2014.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;http://yui.yahooapis.com/3.15.0/build/yui/yui-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/script/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>This is a Hello Blog Post</title>
+			<link href="http://docport.io//posts/hello"/>
+			<updated>2014-06-17T03:29:20.000Z</updated>
+			<id>http://docport.io//posts/hello</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;This is a Hello Blog Post | Docport&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Docport DocPad website hosting.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;DocPad, free hosting, website hosting, free website hosting&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.0&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;favicon.ico&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!--[if gte IE 9]&gt;
+	  &lt;style type=&quot;text/css&quot;&gt;
+		.gradient {
+		   filter: none;
+		}
+	  &lt;/style&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;http://yui.yahooapis.com/pure/0.3.0/pure-min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+	
+	&lt;script src=&quot;//load.sumome.com/&quot; data-sumo-site-id=&quot;ed9e0fc8180f371f88f0149e79a573e600b3f4f70abeaaafc430fbf6a92e182e&quot; async&gt;&lt;/script&gt;
+	
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- Markup --&gt;
+&lt;div class=&quot;content pure-g-r&quot;&gt;
+	&lt;div class=&quot;header pure-u-1&quot;&gt;
+		&lt;div id=&quot;headerNav&quot; class=&quot;pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal&quot;&gt;
+			&lt;!-- iconmonstr START --&gt;&lt;svg id=&quot;logoNav&quot; class=&quot;nav-icon center&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 512 512&quot; enable-background=&quot;new 0 0 512 512&quot; xml:space=&quot;preserve&quot;&gt;undefined&lt;/svg&gt;&lt;!-- iconmonstr END --&gt; &lt;strong&gt;Docport&lt;/strong&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;pure-u-1&quot;&gt;
+	&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+		&lt;h1&gt;This is a Hello Blog Post&lt;/h1&gt;
+		&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;This is a hello &lt;strong&gt;blog post&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+	&lt;/article&gt;
+
+	&lt;footer&gt;
+		
+	&lt;/footer&gt;
+&lt;/div&gt;
+
+	&lt;div class=&quot;footer pure-u-1&quot;&gt;
+		&amp;copy; Docport 2014.
+	&lt;/div&gt;
+&lt;/div&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;http://yui.yahooapis.com/3.15.0/build/yui/yui-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/script/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
