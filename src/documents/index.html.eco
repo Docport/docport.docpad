@@ -7,14 +7,14 @@ title: 'DocPad Hosting'
     <div class="splash pure-u-1">
         <div class="pure-g-r">
             <div class="pure-u-1 center">
-				<%- @getIconmonstrBlock('anchor10','anchorIcon','logo-icon center') %> 
-				<h1 class="name">Docport</h1>
-				<h3>DocPad Hosting</h3>
-				<sup>Coming soon.</sup>
+				<%- @partial('anchor-icon') %> 
+				<div class="name">DOCPORT</div>
+				<div>A Deis PaaS'ing out DocPads.</div>
+				<sup>and things, coming soon.</sup>
             </div>
         </div>
     </div>
-
+<!--
     <div class="content pure-u-1">
         <div class="pure-g-r content-ribbon">
             <div class="pure-u-2-3">
@@ -29,7 +29,6 @@ title: 'DocPad Hosting'
 
             <div class="pure-u-1-3">
                 <div class="l-box">
-                    <%- @getIconmonstrBlock('github10','githubIcon','github-icon center') %>
                 </div>
             </div>
         </div>
@@ -100,3 +99,4 @@ title: 'DocPad Hosting'
             </div>
         </div>
     </div>
+-->
